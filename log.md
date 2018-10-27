@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. [Golf code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+
+### Day 2: October 27, Saturday
+
+**Today's Progress**: I reviewed a large portion of the FreeCodeCamp's introduction to Javascript, since I had already forgotten a large part.
+
+**Thoughts** I'm getting a better feeling for the basics now.
+
+**Link to work**
+
+  1. [Twitter post] (https://twitter.com/LamonRuben/status/1056188422065414144)
