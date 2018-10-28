@@ -17,4 +17,12 @@
 
 **Link to work**
 
-  1. [Twitter post] (https://twitter.com/LamonRuben/status/1056188422065414144)
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1056188422065414144)
+
+### Day 3: October 28, Sunday
+
+**Today's Progress**: I continued the FreeCodeCamp's introduction to Javascript, starting with switch statements and doing part of the object-exercises.
+
+**Thoughts** I still need to concentrate very much to get a good grip on what I'm doing. I had a very busy day so doing this in the evening when I'm tired doesn't help, but the concept of just working for one hour regardless of my progress is a very reassuring one, giving me a sense of accomplishment.
+  
+1. [Counting Cards] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
