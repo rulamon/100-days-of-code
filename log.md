@@ -7,7 +7,7 @@
 **Thoughts** Javascript is a lot harder to grasp than HTML, I like how the more abstract nature of it challenges me more.
 
 **Link(s) to work**
-1. [Golf code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
+1. [FCC Golf code](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
 
 ### Day 2: October 27, Saturday
 
@@ -25,4 +25,12 @@
 
 **Thoughts** I still need to concentrate very much to get a good grip on what I'm doing. I had a very busy day so doing this in the evening when I'm tired doesn't help, but the concept of just working for one hour regardless of my progress is a very reassuring one, giving me a sense of accomplishment.
   
-1. [Counting Cards] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+1. [FCC Counting Cards] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+
+### Day 4: October 29, Monday
+
+**Today's Progress**: Finished the object exercises on FCC's introdution to JS, including the Record Collection function.
+
+**Thoughts** After a very stressful day at my job it's relaxing to concentrate on the code, also with the idea that this will help me find a better job in time.
+
+1. [FCC Record Collection] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
