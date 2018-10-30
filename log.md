@@ -34,3 +34,11 @@
 **Thoughts** After a very stressful day at my job it's relaxing to concentrate on the code, also with the idea that this will help me find a better job in time.
 
 1. [FCC Record Collection] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+
+### Day 5: October 30, Tuesday
+
+**Today's Progress**: Finished FCC basic JS.
+
+**Thoughts** Good work for two hours. Maybe more tonight.
+
+1.[FCC Profile Lookup] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
