@@ -42,3 +42,19 @@
 **Thoughts** Good work for two hours. Maybe more tonight.
 
 1.[FCC Profile Lookup] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+### Day 6: October 31, Wednesday
+
+**Today's Progress**: Did some FCC exercises on ES6, not very much since it was hard to concentrate
+
+**Thoughts** Too tired to concentrate deeply enough, brain won't work.
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1057741445044600841) 
+
+### Day 7: November 1, Thursday
+
+**Today's Progress**: Did some more FCC exercises on ES6, but still hard to focus. Decided to practice and review some concepts from basic JS. 
+
+**Thoughts** When it's hard to concentrate on new concepts, it's a better idea to build stuff to make my skills stronger.
+
+1.[self designed object lookup exercise] (https://codepen.io/Rlamon/pen/xQKxZe?editors=0011)
