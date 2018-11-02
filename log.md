@@ -65,4 +65,4 @@
 
 **Thoughts** It's great to be able to make some progress and to focus!
 
-1.[self designed object lookup exercise] (https://codepen.io/Rlamon/pen/xQKxZe?editors=0011)
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1058473417916203009)
