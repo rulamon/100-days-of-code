@@ -58,3 +58,11 @@
 **Thoughts** When it's hard to concentrate on new concepts, it's a better idea to build stuff to make my skills stronger.
 
 1.[self designed object lookup exercise] (https://codepen.io/Rlamon/pen/xQKxZe?editors=0011)
+
+### Day 8: November 2, Thursday
+
+**Today's Progress**: I could focus on the ES6 exercises and made some good progress.
+
+**Thoughts** It's great to be able to make some progress and to focus!
+
+1.[self designed object lookup exercise] (https://codepen.io/Rlamon/pen/xQKxZe?editors=0011)
