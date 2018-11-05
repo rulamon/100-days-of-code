@@ -59,10 +59,16 @@
 
 1.[self designed object lookup exercise] (https://codepen.io/Rlamon/pen/xQKxZe?editors=0011)
 
-### Day 8: November 2, Thursday
+### Day 8: November 2, Friday
 
 **Today's Progress**: I could focus on the ES6 exercises and made some good progress.
 
 **Thoughts** It's great to be able to make some progress and to focus!
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1058473417916203009)
+
+### Day 9, 10, 11: November 3-5, Saturday - Monday
+
+**Today's Progress**: Good progress in CodeAcademy's JavaScript tutorial, good to review concepts with a different explanation.
+
+**Thoughts** It's nice to view concepts for the first time on FCC and then on CodeAcademy, this way I've already tried to understand the concepts through my own reasoning before actually getting a solid explanation. It requires more concentration, but makes me use my brain.
