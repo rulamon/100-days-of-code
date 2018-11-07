@@ -72,3 +72,9 @@
 **Today's Progress**: Good progress in CodeAcademy's JavaScript tutorial, good to review concepts with a different explanation.
 
 **Thoughts** It's nice to view concepts for the first time on FCC and then on CodeAcademy, this way I've already tried to understand the concepts through my own reasoning before actually getting a solid explanation. It requires more concentration, but makes me use my brain.
+
+### Day 12: November 7, Wednesday
+
+**Today's Progress**: continued CodeAcademy's JavaScript tutorial
+
+**Thoughts** A lot of work to do and a lot of info to process. I should do some exercises to consolidate what I learned.
