@@ -78,3 +78,11 @@
 **Today's Progress**: continued CodeAcademy's JavaScript tutorial
 
 **Thoughts** A lot of work to do and a lot of info to process. I should do some exercises to consolidate what I learned.
+
+### Day 13: November 8, Thursday
+
+**Today's Progress**: learned Git basics (using it to update this log), finished FCC's ES6 section and started on regular expressions.
+
+**Thoughts** 
+
+1.[Find Criminals] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
