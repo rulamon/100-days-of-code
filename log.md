@@ -83,6 +83,8 @@
 
 **Today's Progress**: learned Git basics (using it to update this log), finished FCC's ES6 section and started on regular expressions.
 
-**Thoughts** 
+**Thoughts** Using git to update my log and for projects is a good way to get familiar with it.
 
 1.[Find Criminals] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
+
+2.[Restrict Possible Usernames] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
