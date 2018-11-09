@@ -88,3 +88,9 @@
 1.[Find Criminals] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)
 
 2.[Restrict Possible Usernames] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)
+
+### Day 14: November 9, Friday
+
+**Today's Progress**: almost finished regular expressions on FCC
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1061009091135451143)
