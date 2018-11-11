@@ -94,3 +94,11 @@
 **Today's Progress**: almost finished regular expressions on FCC
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1061009091135451143)
+
+### Day 15, day 16: November 10 and 11, Saturday and Sunday
+
+**Today's Progress**: finished regex in FCC, started and finished debugging and basic data structures on FCC
+
+**Thoughts** Making good progress, also in logical thinking
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1061637955431882752)
