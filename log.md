@@ -102,3 +102,11 @@
 **Thoughts** Making good progress, also in logical thinking
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1061637955431882752)
+
+### Day 17: November 12, Monday
+
+**Today's Progress**: Started FCC's basic algorithm scripting
+
+**Thoughts** It's nice to start solving problems with what I've learned so far, the solutions in the hint section help a lot too, I could always come up with a solution that worked, but the solutions provided were usually more efficient
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1062078913499840513)
