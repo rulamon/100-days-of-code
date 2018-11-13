@@ -110,3 +110,12 @@
 **Thoughts** It's nice to start solving problems with what I've learned so far, the solutions in the hint section help a lot too, I could always come up with a solution that worked, but the solutions provided were usually more efficient
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1062078913499840513)
+
+### Day 18: November 13, Tuesday
+
+**Today's Progress**: continued basic algorithm scripting and made a repository of every exercise, working in sublime and committing and pushing to github on the command line
+
+1.[FCC-scripting-largest-number] (https://github.com/rulamon/FCC-scripting-largest-number)
+2.[FCC-scripting-confirm-the-ending] (https://github.com/rulamon/FCC-scripting-confirm-the-ending)
+3.[FCC-scripting-repeat-a-string] (https://github.com/rulamon/FCC-scripting-repeat-a-string)
+4.[FCC-scripting-truncate-a-string](https://github.com/rulamon/FCC-scripting-truncate-a-string)
