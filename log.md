@@ -119,3 +119,13 @@
 2.[FCC-scripting-confirm-the-ending] (https://github.com/rulamon/FCC-scripting-confirm-the-ending)
 3.[FCC-scripting-repeat-a-string] (https://github.com/rulamon/FCC-scripting-repeat-a-string)
 4.[FCC-scripting-truncate-a-string](https://github.com/rulamon/FCC-scripting-truncate-a-string)
+
+### Day 19: November 14, Wednesday
+
+**Today's Progress**: did three exercises
+
+**Thoughts**: I should review the last one tomorrow, can't concentrate anymore but there are a lot of ways to do this, let's find which one I like best when I'm fresh
+
+1.[FCC-scripting-finders keepers] (https://github.com/rulamon/FCC-scripting-finders-keepers)
+2.[FCC-scripting-boo-who] (https://github.com/rulamon/FCC-scripting-boo-who)
+3.[FCC-scripting-title-case-a-sentence] (https://github.com/rulamon/FCC-scripting-title-case-a-sentence)
