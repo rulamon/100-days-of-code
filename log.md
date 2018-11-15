@@ -132,9 +132,9 @@
 
 ### Day 20: November 15, Thursday
 
-**Today's Progress**: 
-
-**Thoughts**: 
+**Today's Progress**: Finished four exercises with full understanding of different possibilities and made choices about the ones I liked best
 
 1. [FCC-scripting-title-case-a-sentence] (https://github.com/rulamon/FCC-scripting-title-case-a-sentence)
 2. [FCC-scripting-slice-and-splice] (https://github.com/rulamon/FCC-scripting-slice-and-splice)
+3. [FCC-scripting-falsy-bouncer] (https://github.com/rulamon/FCC-scripting-falsy-bouncer)
+4. [FCC-scripting-where-do-i-belong] (https://github.com/rulamon/FCC-scripting-where-do-i-belong)
