@@ -129,3 +129,12 @@
 1.[FCC-scripting-finders keepers] (https://github.com/rulamon/FCC-scripting-finders-keepers)
 2.[FCC-scripting-boo-who] (https://github.com/rulamon/FCC-scripting-boo-who)
 3.[FCC-scripting-title-case-a-sentence] (https://github.com/rulamon/FCC-scripting-title-case-a-sentence)
+
+### Day 20: November 15, Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+1. [FCC-scripting-title-case-a-sentence] (https://github.com/rulamon/FCC-scripting-title-case-a-sentence)
+2. [FCC-scripting-slice-and-splice] (https://github.com/rulamon/FCC-scripting-slice-and-splice)
