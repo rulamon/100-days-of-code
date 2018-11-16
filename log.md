@@ -138,3 +138,9 @@
 2. [FCC-scripting-slice-and-splice] (https://github.com/rulamon/FCC-scripting-slice-and-splice)
 3. [FCC-scripting-falsy-bouncer] (https://github.com/rulamon/FCC-scripting-falsy-bouncer)
 4. [FCC-scripting-where-do-i-belong] (https://github.com/rulamon/FCC-scripting-where-do-i-belong)
+
+### Day 21: November 16, Friday
+
+**Today's Progress**: Finished FCC basic algorithm scripting and did half of object oriented programming
+
+1. [FCC-scripting-chunky-monkey] (https://github.com/rulamon/FCC-scripting-chunky-monkey)
