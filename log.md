@@ -144,3 +144,9 @@
 **Today's Progress**: Finished FCC basic algorithm scripting and did half of object oriented programming
 
 1. [FCC-scripting-chunky-monkey] (https://github.com/rulamon/FCC-scripting-chunky-monkey)
+
+### Day 22: November 17, Saturday
+
+**Today's Progress**: Did part of object oriented programming***
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
