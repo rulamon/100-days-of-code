@@ -150,3 +150,11 @@
 **Today's Progress**: Did part of object oriented programming***
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
+
+### Day 23: November 18, Sunday
+
+**Today's Progress**: Wrote an algorithm to calculate km/h from mm:ss/km.
+
+**Thoughts**: Nico's hint about .split(':') was very helpful
+
+1. [mm:ss/km to km/h] (https://github.com/rulamon/time-per-km-to-km-per-hour)
