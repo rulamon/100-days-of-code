@@ -158,3 +158,9 @@
 **Thoughts**: Nico's hint about .split(':') was very helpful
 
 1. [mm:ss/km to km/h] (https://github.com/rulamon/time-per-km-to-km-per-hour)
+
+# Day 24: November 19, Monday
+
+**Today's Progress**: Improved (and renamed) running speed algorithm by making it work both ways. I also finished FCC's object oriented programming part.
+
+1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
