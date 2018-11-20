@@ -164,3 +164,9 @@
 **Today's Progress**: Improved (and renamed) running speed algorithm by making it work both ways. I also finished FCC's object oriented programming part.
 
 1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
+
+# Day 25: November 20, Tuesday
+
+**Today's Progress**: Did part of FCC's functional programming
+
+1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
