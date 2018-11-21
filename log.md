@@ -170,3 +170,12 @@
 **Today's Progress**: Did part of FCC's functional programming
 
 1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
+
+# Day 26: November 21, Friday
+
+**Today's Progress**: More of functional programming, mostly reviewing concepts i already knew
+
+**Thoughts**: Projects are getting close, maybe I should continue CodeAcademy's JS course before starting on those
+
+1. [FCC-functional-implement-filter] (https://github.com/rulamon/FCC-functional-implement-filter)
+2. [FCC-functional-implement-map] (https://github.com/rulamon/FCC-functional-implement-map)
