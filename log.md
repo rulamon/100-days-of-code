@@ -150,3 +150,8 @@
 **Today's Progress**: Did part of object oriented programming***
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
+### Day 22: November 17, Saturday
+
+**Today's Progress**: Did part of object oriented programming***
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
