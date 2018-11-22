@@ -150,8 +150,39 @@
 **Today's Progress**: Did part of object oriented programming***
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
-### Day 22: November 17, Saturday
 
-**Today's Progress**: Did part of object oriented programming***
+### Day 23: November 18, Sunday
 
-1. [Twitter post] (https://twitter.com/LamonRuben/status/1063861811009789952)
+**Today's Progress**: Wrote an algorithm to calculate km/h from mm:ss/km.
+
+**Thoughts**: Nico's hint about .split(':') was very helpful
+
+1. [mm:ss/km to km/h] (https://github.com/rulamon/time-per-km-to-km-per-hour)
+
+### Day 24: November 19, Monday
+
+**Today's Progress**: Improved (and renamed) running speed algorithm by making it work both ways. I also finished FCC's object oriented programming part.
+
+1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
+
+### Day 25: November 20, Tuesday
+
+**Today's Progress**: Did part of FCC's functional programming
+
+1. [running speed conversion] (https://github.com/rulamon/running-speed-conversion)
+
+### Day 26: November 21, Wednesday
+
+**Today's Progress**: More of functional programming, mostly reviewing concepts i already knew
+
+**Thoughts**: Projects are getting close, maybe I should continue CodeAcademy's JS course before starting on those
+
+1. [FCC-functional-implement-filter] (https://github.com/rulamon/FCC-functional-implement-filter)
+2. [FCC-functional-implement-map] (https://github.com/rulamon/FCC-functional-implement-map)
+
+### Day 27: November 22, Thursday
+
+**Today's Progress**: Finished functional programming and did a couple of algorithms
+
+1. [fcc-scripting-sum-range] (https://github.com/rulamon/fcc-scripting-sum-range)
+2. [fcc-scripting-diff-arrays] (https://github.com/rulamon/fcc-scripting-diff-arrays)
