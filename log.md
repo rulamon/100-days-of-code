@@ -189,7 +189,8 @@
 
 ### Day 28: November 25, Sunday
 
-**Today's Progress**: Finished "diff two arrays" with better solution, in the end the hints gave me the best solution. Also found a first solution to destroyer.
+**Today's Progress**: Finished "diff two arrays" with better solution, in the end the hints gave me the best solution. Also found a first solution to seek & destroy.
+addendum: reviewed and finished seek & destroy
 
 **Thoughts**: Skipped two days in a row since I felt tired and unable to concentrate.
 
