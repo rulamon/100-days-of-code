@@ -186,3 +186,12 @@
 
 1. [fcc-scripting-sum-range] (https://github.com/rulamon/fcc-scripting-sum-range)
 2. [fcc-scripting-diff-arrays] (https://github.com/rulamon/fcc-scripting-diff-arrays)
+
+### Day 28: November 25, Sunday
+
+**Today's Progress**: Finished "diff two arrays" with better solution, in the end the hints gave me the best solution. Also found a first solution to destroyer.
+
+**Thoughts**: Skipped two days in a row since I felt tired and unable to concentrate.
+
+1. [fcc-scripting-diff-arrays] (https://github.com/rulamon/fcc-scripting-diff-arrays)
+2. [fcc-scripting-destroyer] (https://github.com/rulamon/fcc-scripting-destroyer)
