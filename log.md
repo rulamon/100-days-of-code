@@ -196,3 +196,16 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-scripting-diff-arrays] (https://github.com/rulamon/fcc-scripting-diff-arrays)
 2. [fcc-scripting-destroyer] (https://github.com/rulamon/fcc-scripting-destroyer)
+
+### Day 29: November 26, Monday
+
+**Today's Progress**: Did fcc intermediate scripting: wherefore art thou
+
+1. [fcc-scripting-wherefore] (https://github.com/rulamon/fcc-scripting-wherefore)
+
+### Day 30: November 27, Tuesday
+
+**Today's Progress**: Did fcc intermediate scripting: spinal case and pig latin. Made a pull request to add my solution to pig latin to hints.
+
+1. [fcc-scripting-spinal-case] (https://github.com/rulamon/fcc-scripting-spinal-case)
+2. [fcc-scripting-pig-latin] (https://github.com/rulamon/fcc-scripting-pig-latin)
