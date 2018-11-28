@@ -209,3 +209,9 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-scripting-spinal-case] (https://github.com/rulamon/fcc-scripting-spinal-case)
 2. [fcc-scripting-pig-latin] (https://github.com/rulamon/fcc-scripting-pig-latin)
+
+### Day 31: November 28, Wednesday
+
+**Today's Progress**: Did fcc intermediate scripting: DNA pairing
+
+1. [fcc-scripting-dna-pairing] (https://github.com/rulamon/fcc-scripting-dna-pairing)
