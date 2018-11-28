@@ -212,6 +212,7 @@ addendum: reviewed and finished seek & destroy
 
 ### Day 31: November 28, Wednesday
 
-**Today's Progress**: Did fcc intermediate scripting: DNA pairing
+**Today's Progress**: Did fcc intermediate scripting: DNA pairing. After making dinner: missing letters
 
 1. [fcc-scripting-dna-pairing] (https://github.com/rulamon/fcc-scripting-dna-pairing)
+2. [fcc-scripting-missing-letters] (https://github.com/rulamon/fcc-scripting-missing-letters)
