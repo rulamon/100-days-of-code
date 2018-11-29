@@ -216,3 +216,12 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-scripting-dna-pairing] (https://github.com/rulamon/fcc-scripting-dna-pairing)
 2. [fcc-scripting-missing-letters] (https://github.com/rulamon/fcc-scripting-missing-letters)
+
+### Day 32: November 29, Thursday
+
+**Today's Progress**: Did fcc intermediate scripting: Sorted Union and Replace HTML Entities
+
+**Thoughts**: I'm getting better at quickly finding efficient solutions for the algorithm problems
+
+1. [fcc-algorithm-sorted-union] (https://github.com/rulamon/fcc-algorithm-sorted-union)
+2. [fcc-algorithm-html-entities] (https://github.com/rulamon/fcc-algorithm-html-entities)
