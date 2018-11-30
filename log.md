@@ -224,4 +224,11 @@ addendum: reviewed and finished seek & destroy
 **Thoughts**: I'm getting better at quickly finding efficient solutions for the algorithm problems
 
 1. [fcc-algorithm-sorted-union] (https://github.com/rulamon/fcc-algorithm-sorted-union)
-2. [fcc-algorithm-html-entities] (https://github.com/rulamon/fcc-algorithm-html-entities)
+2. [fcc-algorithm-html-entities] (https://github.com/rulamon/fcc-algorithm-html-entities) 
+
+#### Day 33: November 30, Friday
+
+**Today's Progress**: Did fcc intermediate scripting: Sum All Odd Fibonacci Numbers, Sum All Primes
+
+1. [fcc-algorithm-fibonacci] (https://github.com/rulamon/fcc-algorithm-fibonacci)
+2. [fcc-algorithm-sum-primes] (https://github.com/rulamon/fcc-algorithm-sum-primes)
