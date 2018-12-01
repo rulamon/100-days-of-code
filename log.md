@@ -232,3 +232,10 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-fibonacci] (https://github.com/rulamon/fcc-algorithm-fibonacci)
 2. [fcc-algorithm-sum-primes] (https://github.com/rulamon/fcc-algorithm-sum-primes)
+
+#### Day 34: December 1, Saturday
+
+**Today's Progress**: Did fcc intermediate scripting: Sum All Primes (following advice by Nico to rather be clear than concise) and Smallest Common Multiple
+
+1. [fcc-algorithm-sum-primes] (https://github.com/rulamon/fcc-algorithm-sum-primes)
+2. [fcc-algorithm-smallest-multiple] (https://github.com/rulamon/fcc-algorithm-smalles-multiple)
