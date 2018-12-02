@@ -239,3 +239,10 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-sum-primes] (https://github.com/rulamon/fcc-algorithm-sum-primes)
 2. [fcc-algorithm-smallest-multiple] (https://github.com/rulamon/fcc-algorithm-smalles-multiple)
+
+#### Day 35: December 2, Sunday
+
+**Today's Progress**: Did fcc intermediate scripting: Drop It, Steamroller (needs reviewing tomorrow!)
+
+1. [fcc-algorithm-drop-it] (https://github.com/rulamon/fcc-algorithm-drop-it)
+2. [fcc-algorithm-steamroller] (https://github.com/rulamon/fcc-algorithm-steamroller)
