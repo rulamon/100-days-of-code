@@ -246,3 +246,10 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-drop-it] (https://github.com/rulamon/fcc-algorithm-drop-it)
 2. [fcc-algorithm-steamroller] (https://github.com/rulamon/fcc-algorithm-steamroller)
+
+#### Day 36: December 3, Monday
+
+**Today's Progress**: Did fcc intermediate scripting: Steamroller review (help from nico); Binary Agents
+
+1. [fcc-algorithm-steamroller] (https://github.com/rulamon/fcc-algorithm-steamroller)
+2. [fcc-algorithm-binary-agents] (https://github.com/rulamon/fcc-algorithm-binary-agents)
