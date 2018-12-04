@@ -253,3 +253,9 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-steamroller] (https://github.com/rulamon/fcc-algorithm-steamroller)
 2. [fcc-algorithm-binary-agents] (https://github.com/rulamon/fcc-algorithm-binary-agents)
+
+#### Day 37: December 4, Tuesday
+
+**Today's Progress**: Did fcc intermediate scripting: Everything true; arguments optional (not finished!)
+
+1. [fcc-algorithm-everything-true] (https://github.com/rulamon/fcc-algorithm-everything-true)
