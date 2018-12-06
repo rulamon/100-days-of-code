@@ -259,3 +259,9 @@ addendum: reviewed and finished seek & destroy
 **Today's Progress**: Did fcc intermediate scripting: Everything true; arguments optional (not finished!)
 
 1. [fcc-algorithm-everything-true] (https://github.com/rulamon/fcc-algorithm-everything-true)
+
+#### Day 38: December 5, Thursday
+
+**Today's Progress**: Did fcc intermediate scripting: arguments optional (not finished!)
+
+1. [fcc-algorithm-arguments-optional] (https://github.com/rulamon/fcc-algorithm-arguments-optional)
