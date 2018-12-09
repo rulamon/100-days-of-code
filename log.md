@@ -274,7 +274,7 @@ addendum: reviewed and finished seek & destroy
 
 #### Day 40: December 9, Sunday
 
-**Today's Progress**: Reviewed OOP on FCC and did fcc intermediate scripting: Make a person
+**Today's Progress**: Reviewed OOP on FCC and did fcc intermediate scripting: Make a person and Map The Debris
 
 1. [fcc-algorithm-make-person] (https://github.com/rulamon/fcc-algorithm-make-person)
-
+2. [fcc-algorithm-map-debris] (https://github.com/rulamon/fcc-algorithm-map-debris)
