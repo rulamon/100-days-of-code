@@ -260,8 +260,21 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-everything-true] (https://github.com/rulamon/fcc-algorithm-everything-true)
 
-#### Day 38: December 5, Thursday
+#### Day 38: December 6, Thursday
 
-**Today's Progress**: Did fcc intermediate scripting: arguments optional (not finished!)
+**Today's Progress**: Did fcc intermediate scripting: arguments optional. Found solution but got stuck on other possibilities
 
 1. [fcc-algorithm-arguments-optional] (https://github.com/rulamon/fcc-algorithm-arguments-optional)
+
+#### Day 39: December 7, Friday
+
+**Today's Progress**: Did fcc intermediate scripting: arguments optional, couldn't find out how to get it to work with a curried function where the first argument is a string e.g. ("3")(2). arguments.length doesn't work in this case. I gave up because I was spending too much time on it and lost motivation. 
+
+1. [fcc-algorithm-arguments-optional] (https://github.com/rulamon/fcc-algorithm-arguments-optional)
+
+#### Day 40: December 9, Sunday
+
+**Today's Progress**: Reviewed OOP on FCC and did fcc intermediate scripting: Make a person
+
+1. [fcc-algorithm-make-person] (https://github.com/rulamon/fcc-algorithm-make-person)
+
