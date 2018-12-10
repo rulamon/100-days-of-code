@@ -278,3 +278,10 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-algorithm-make-person] (https://github.com/rulamon/fcc-algorithm-make-person)
 2. [fcc-algorithm-map-debris] (https://github.com/rulamon/fcc-algorithm-map-debris)
+
+#### Day 41: December 10, Monday
+
+**Today's Progress**: Finished two of the five projects for the FCC JS certification
+
+1. [fcc-projects-palindrome-checker] (https://github.com/rulamon/fcc-projects-palindrome-checker)
+2. [fcc-projects-roman-numeral] (https://github.com/rulamon/fcc-projects-roman-numeral)
