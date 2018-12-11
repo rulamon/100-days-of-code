@@ -285,3 +285,10 @@ addendum: reviewed and finished seek & destroy
 
 1. [fcc-projects-palindrome-checker] (https://github.com/rulamon/fcc-projects-palindrome-checker)
 2. [fcc-projects-roman-numeral] (https://github.com/rulamon/fcc-projects-roman-numeral)
+
+#### Day 42: December 11, Tuesday
+
+**Today's Progress**: Reviewed and improved Roman Numeral, solved Caesars Cipher. Started Telephone Number Validator, but didn't finish
+
+1. [fcc-projects-roman-numeral] (https://github.com/rulamon/fcc-projects-roman-numeral)
+2. [fcc-projects-caesars-cipher] (https://github.com/rulamon/fcc-projects-caesars-cipher)
