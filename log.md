@@ -288,7 +288,15 @@ addendum: reviewed and finished seek & destroy
 
 #### Day 42: December 11, Tuesday
 
-**Today's Progress**: Reviewed and improved Roman Numeral, solved Caesars Cipher. Started Telephone Number Validator, but didn't finish
+**Today's Progress**: Reviewed and improved Roman Numeral, solved Caesars Cipher. Started Telephone Number Validator, but didn't finish.
+PS: finished later, used one regex.
 
 1. [fcc-projects-roman-numeral] (https://github.com/rulamon/fcc-projects-roman-numeral)
 2. [fcc-projects-caesars-cipher] (https://github.com/rulamon/fcc-projects-caesars-cipher)
+3. [fcc-projects-telephone-validator] (https://github.com/rulamon/fcc-projects-telephone-validator)
+
+#### Day 43: December 12, Wednesday
+
+**Today's Progress**: Finished the last of the FCC javascript algorithms and data structures projects, and claimed the certificate.
+
+1. [fcc-projects-cash-register] (https://github.com/rulamon/fcc-projects-cash-register)
