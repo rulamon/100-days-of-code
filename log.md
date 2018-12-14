@@ -300,3 +300,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Finished the last of the FCC javascript algorithms and data structures projects, and claimed the certificate.
 
 1. [fcc-projects-cash-register] (https://github.com/rulamon/fcc-projects-cash-register)
+
+#### Day 44, 45: December 13, 14, Wednesday, Thursday
+
+**Today's Progress**: Continued the CodeAcademy intro to Javascript
+
+1. [fcc-projects-cash-register] (https://github.com/rulamon/fcc-projects-cash-register)
