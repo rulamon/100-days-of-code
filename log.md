@@ -301,8 +301,14 @@ PS: finished later, used one regex.
 
 1. [fcc-projects-cash-register] (https://github.com/rulamon/fcc-projects-cash-register)
 
-#### Day 44, 45: December 13, 14, Wednesday, Thursday
+#### Day 44, 45: December 13, 14, Thursday, Friday
 
 **Today's Progress**: Continued the CodeAcademy intro to Javascript
 
-1. [fcc-projects-cash-register] (https://github.com/rulamon/fcc-projects-cash-register)
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1073654974226284544)
+
+### Day 46: December 15, Saturday
+
+**Today's Progress**: Learned about modules on CodeAcademy, will revisit tomorrow since it's too hard to concentrate to finish right now
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1074045513845145600)
