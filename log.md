@@ -312,3 +312,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Learned about modules on CodeAcademy, will revisit tomorrow since it's too hard to concentrate to finish right now
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1074045513845145600)
+
+### Day 47: December 16, Sunday
+
+**Today's Progress**: Continued learning about modules on CodeAcademy and did part of JS promises
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1074394619289526273)
