@@ -318,3 +318,13 @@ PS: finished later, used one regex.
 **Today's Progress**: Continued learning about modules on CodeAcademy and did part of JS promises
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1074394619289526273)
+
+### Day 48: December 17, Monday
+
+**Today's Progress**: Finished JS promises on CodeAcademy but quit the course since I was getting tired of doing just theory.
+
+### Day 49: December 18, Tuesday
+
+**Today's Progress**: Started and finished "Javascript Programming: Learn By Making A Mobile Game" on Udemy, learning more about interaction between HTML, CSS and JavaScript, and learning about event listeners, getElementById and HTML canvas.
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1075034708688420865)
