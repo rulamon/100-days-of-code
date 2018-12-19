@@ -328,3 +328,11 @@ PS: finished later, used one regex.
 **Today's Progress**: Started and finished "Javascript Programming: Learn By Making A Mobile Game" on Udemy, learning more about interaction between HTML, CSS and JavaScript, and learning about event listeners, getElementById and HTML canvas.
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1075034708688420865)
+
+### Day 50: December 19, Wednesday
+
+**Today's Progress**: Back to FreeCodeCamp, did Bootstrap and part of jQuery.
+
+**Thoughts**: jQuery seems to make more sense after learning JavaScript, which makes sense I guess.
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1075419422582542342)
