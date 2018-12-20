@@ -336,3 +336,10 @@ PS: finished later, used one regex.
 **Thoughts**: jQuery seems to make more sense after learning JavaScript, which makes sense I guess.
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1075419422582542342)
+
+### Day 51: December 20, Thursday
+
+**Today's Progress**: Did FreeCodeCamp jQuery and Sass.
+
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1075697090574082049)
