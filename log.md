@@ -341,5 +341,10 @@ PS: finished later, used one regex.
 
 **Today's Progress**: Did FreeCodeCamp jQuery and Sass.
 
-
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1075697090574082049)
+
+### Day 52: December 21, Friday
+
+**Today's Progress**: Did half of FCC React Challenges
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1076120224494104577)
