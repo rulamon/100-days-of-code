@@ -348,3 +348,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Did half of FCC React Challenges
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1076120224494104577)
+
+### Day 53: December 23, Sunday
+
+**Today's Progress**: More react on FCC, not too much, busy weekend at work
+
+1. [Twitter post] (https://twitter.com/LamonRuben/status/1076925680837890053)
