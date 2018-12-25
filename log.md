@@ -354,3 +354,9 @@ PS: finished later, used one regex.
 **Today's Progress**: More react on FCC, not too much, busy weekend at work
 
 1. [Twitter post] (https://twitter.com/LamonRuben/status/1076925680837890053)
+
+### Day 54: December 25, Tuesday
+
+**Today's progress**: A little react on FCC, hard to concentrate due to too much food
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1077653590586675201)
