@@ -360,3 +360,7 @@ PS: finished later, used one regex.
 **Today's progress**: A little react on FCC, hard to concentrate due to too much food
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1077653590586675201)
+
+### Day 55: December 27, Thursday
+
+**Today's progress**: Again, some progress on react on fcc
