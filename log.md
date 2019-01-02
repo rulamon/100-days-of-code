@@ -372,3 +372,9 @@ PS: finished later, used one regex.
 **Thouhts**: after a week where I couldn't concentrate and didn't have much time to code, I'm back on track
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1080100441516584960)
+
+### Day 56-58: December 29, 30 and January 1, Saturday, Sunday and Tuesday
+
+**Today's progress**: Started and completed Redux challenges on FreeCodeCamp
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1080555069353930752)
