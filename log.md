@@ -373,8 +373,14 @@ PS: finished later, used one regex.
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1080100441516584960)
 
-### Day 56-58: December 29, 30 and January 1, Saturday, Sunday and Tuesday
+### Day 59: January 2, Wednesday
 
 **Today's progress**: Started and completed Redux challenges on FreeCodeCamp
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1080555069353930752)
+
+### Day 60: January 3, Thursday
+
+**Today's progress**: Started and completed Redux/React challenges on FreeCodeCamp
+
+1.[Twitter post] (https://twitter.com/LamonRuben/status/1080917647691149313)
