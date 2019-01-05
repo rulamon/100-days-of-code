@@ -384,3 +384,13 @@ PS: finished later, used one regex.
 **Today's progress**: Started and completed Redux/React challenges on FreeCodeCamp
 
 1.[Twitter post] (https://twitter.com/LamonRuben/status/1080917647691149313)
+
+### Day 61: January 4, Friday
+
+**Today's progress**: Reviewed some of the Redux challenges and did some codewars problems.
+
+### Da y 62: January 5, Saturday
+
+**Today's progress**: Started the Random Quote Machine project on FreeCodeCamp, did some research on api's, which I won't use for now after all, and found out how to use JQuery to insert a random quote into HTML and change it by clicking a button.
+
+1.[Random Quote Machine on codepen] (https://codepen.io/Rlamon/pen/XoEqjM?editors=1010)
