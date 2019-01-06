@@ -389,8 +389,14 @@ PS: finished later, used one regex.
 
 **Today's progress**: Reviewed some of the Redux challenges and did some codewars problems.
 
-### Da y 62: January 5, Saturday
+### Day 62: January 5, Saturday
 
 **Today's progress**: Started the Random Quote Machine project on FreeCodeCamp, did some research on api's, which I won't use for now after all, and found out how to use JQuery to insert a random quote into HTML and change it by clicking a button.
 
 1.[Random Quote Machine on codepen] (https://codepen.io/Rlamon/pen/XoEqjM?editors=1010)
+
+### Day 63: January 6, Sunday
+
+**Today's progress**: Worked on the random quote machine. Changed the idea to a random jazz quote machine, created an array of over a hundred jazz quote objects. Limited the use of JQuery to where it was necessary and avoided repeated code by creating a method on Array.prototype to generate a random quote object. Also switched from codepen to Sublime Text 3 and Chrome.
+
+1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
