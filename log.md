@@ -400,3 +400,9 @@ PS: finished later, used one regex.
 **Today's progress**: Worked on the random quote machine. Changed the idea to a random jazz quote machine, created an array of over a hundred jazz quote objects. Limited the use of JQuery to where it was necessary and avoided repeated code by creating a method on Array.prototype to generate a random quote object. Also switched from codepen to Sublime Text 3 and Chrome.
 
 1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
+
+### Day 64: January 7, Monday
+
+**Today's progress**: Worked on the random quote machine. Used flexbox for centering, learned css transitions and jquery fadein and fadeout.
+
+1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
