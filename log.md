@@ -403,6 +403,13 @@ PS: finished later, used one regex.
 
 ### Day 64: January 7, Monday
 
-**Today's progress**: Worked on the random quote machine. Used flexbox for centering, learned css transitions and jquery fadein and fadeout.
+**Today's progress**: Worked on the random quote machine. Used flexbox for centering, learned css transitions and jquery fadein and fadeout. Downloaded Koala for SCSS compiling.
 
 1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
+
+### day 65 & 66: January 9 and 10, Wednesday and Thursday
+
+**Today's Progress**: Finished the random quote machine after changing design idea to one inspired on the Blue Note Records logo. Alse made a very basic functioning markdown previewer in React.js.
+
+1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
+2.[markdown previewer on codepen.io] (https://codepen.io/Rlamon/pen/NeLerX)
