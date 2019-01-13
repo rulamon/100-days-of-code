@@ -413,3 +413,9 @@ PS: finished later, used one regex.
 
 1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
 2.[markdown previewer on codepen.io] (https://codepen.io/Rlamon/pen/NeLerX)
+
+### day 67, 68 & 69: January 11 to 12, Friday to Saturday
+
+**Today's Progress**: Tried to continue building the markdown previewer on my own system but failed installing the dependencies using npm, so in the end I finished it on codepen. Will review npm stuff later! 
+
+1.[markdown previewer on codepen.io] (https://codepen.io/Rlamon/pen/NeLerX)
