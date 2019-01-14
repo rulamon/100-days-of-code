@@ -414,8 +414,14 @@ PS: finished later, used one regex.
 1.[Random Quote Machine on GitHub] (https://github.com/rulamon/fcc-random-quote-machine)
 2.[markdown previewer on codepen.io] (https://codepen.io/Rlamon/pen/NeLerX)
 
-### day 67, 68 & 69: January 11 to 12, Friday to Saturday
+### day 67, 68 & 69: January 11 to 13, Friday to Saturday
 
 **Today's Progress**: Tried to continue building the markdown previewer on my own system but failed installing the dependencies using npm, so in the end I finished it on codepen. Will review npm stuff later! 
 
 1.[markdown previewer on codepen.io] (https://codepen.io/Rlamon/pen/NeLerX)
+
+### day 70: January14, Monday
+
+**Today's Progress**: Same problems with webpack and npm as before, due to, amongst other things, a lack of knowledge of the command line. So I'm taking the codeAcademy Command Line tutorial.
+
+1.[Twitter Post](https://twitter.com/LamonRuben/status/1084762382457602048)
