@@ -424,4 +424,10 @@ PS: finished later, used one regex.
 
 **Today's Progress**: Same problems with webpack and npm as before, due to, amongst other things, a lack of knowledge of the command line. So I'm taking the codeAcademy Command Line tutorial.
 
-1.[Twitter Post](https://twitter.com/LamonRuben/status/1084762382457602048)
+1.[Twitter Post] (https://twitter.com/LamonRuben/status/1084762382457602048)
+
+### day 71: January 15, Tuesday
+
+**Today's Progress**: I got webpack running with React, Marked and Sass, and ran my Markdown previewer on my own system!
+
+1.[markdown previewer on Github] (https://github.com/rulamon/fcc-markdown-previewer)
