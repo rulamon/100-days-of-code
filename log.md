@@ -431,3 +431,9 @@ PS: finished later, used one regex.
 **Today's Progress**: I got webpack running with React, Marked and Sass, and ran my Markdown previewer on my own system!
 
 1.[markdown previewer on Github](https://github.com/rulamon/fcc-markdown-previewer)
+
+### day 72, 73, 74: January 16, 17, 18, Wednesday, Thursday, Friday
+
+**Today's Progress**: Built basic functionality in React for the FCC drum-machine. Decided to use nes.css for styling. 
+
+1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
