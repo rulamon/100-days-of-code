@@ -437,3 +437,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Built basic functionality in React for the FCC drum-machine. Decided to use nes.css for styling. 
 
 1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
+
+### day 75: January 19, Saturday
+
+**Today's Progress**: Implemented grid for layout.
+
+1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
