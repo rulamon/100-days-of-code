@@ -443,3 +443,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Implemented grid for layout.
 
 1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
+
+### day 76: January 20, Sunday
+
+**Today's Progress**: Finished basic styling, still need to make it responsive and add to codepen;
+
+1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
