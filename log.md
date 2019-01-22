@@ -449,3 +449,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Finished basic styling, still need to make it responsive and add to codepen;
 
 1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
+
+### day 77: January 22, Tuesday
+
+**Today's Progress**: Finished the Drum Machine, made it fully responsive and passed all tests.
+
+1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
