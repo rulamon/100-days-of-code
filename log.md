@@ -455,3 +455,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Finished the Drum Machine, made it fully responsive and passed all tests.
 
 1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
+
+### day 78: January 23, Thursday
+
+**Today's Progress**: Did some katas on Codewars.
+
+1.[Tweet link](https://twitter.com/LamonRuben/status/1088520779489267713)
