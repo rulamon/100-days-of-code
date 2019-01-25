@@ -461,3 +461,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Did some katas on Codewars.
 
 1.[Tweet link](https://twitter.com/LamonRuben/status/1088520779489267713)
+
+### day 79: January 24, Friday
+
+**Today's Progress**: Did some katas on Codewars.
+
+1.[Tweet link](https://twitter.com/LamonRuben/status/1088830838945517568)
