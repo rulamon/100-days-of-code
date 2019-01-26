@@ -467,3 +467,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Did some katas on Codewars.
 
 1.[Tweet link](https://twitter.com/LamonRuben/status/1088830838945517568)
+
+### day 80: January 25, Saturday
+
+**Today's Progress**: Set up environment and basic architecture for React Calculator for FCC
+
+1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
