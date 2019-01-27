@@ -456,20 +456,26 @@ PS: finished later, used one regex.
 
 1.[drum machine on github](https://github.com/rulamon/fcc-drum-machine)
 
-### day 78: January 23, Thursday
+### day 78: January 24, Thursday
 
 **Today's Progress**: Did some katas on Codewars.
 
 1.[Tweet link](https://twitter.com/LamonRuben/status/1088520779489267713)
 
-### day 79: January 24, Friday
+### day 79: January 25, Friday
 
 **Today's Progress**: Did some katas on Codewars.
 
 1.[Tweet link](https://twitter.com/LamonRuben/status/1088830838945517568)
 
-### day 80: January 25, Saturday
+### day 80: January 26, Saturday
 
 **Today's Progress**: Set up environment and basic architecture for React Calculator for FCC
+
+1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
+
+### day 81: January 27, Sunday
+
+**Today's Progress**: Wrote event handlers for my React Calculator for the @freeCodeCamp curriculum.
 
 1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
