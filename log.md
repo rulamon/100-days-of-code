@@ -479,3 +479,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Wrote event handlers for my React Calculator for the @freeCodeCamp curriculum.
 
 1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
+
+### day 82: January 28, Monday
+
+**Today's Progress**: Improved event handlers for my React Calculator for the @freeCodeCamp curriculum.
+
+1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
