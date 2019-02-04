@@ -491,3 +491,15 @@ PS: finished later, used one regex.
 **Today's Progress**: Rebuilt event handlers for my React Calculator for the @freeCodeCamp curriculum, sorted per function instead of doing everything in one event handler.
 
 1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
+
+### day 84: February 2, Saturday
+
+**Today's Progress**: No coding for three days due to recording. Debugged event handlers, calculator is fully functional and passing all tests. Next is styling with css grid.
+
+1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
+
+### day 85, 86: February 3,4, Sunday and Monday
+
+**Today's Progress**: Finished styling the calculator app and made it fully responsive. Up next: Pomodoro timer.
+
+1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
