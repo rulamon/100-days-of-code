@@ -503,3 +503,9 @@ PS: finished later, used one regex.
 **Today's Progress**: Finished styling the calculator app and made it fully responsive. Up next: Pomodoro timer.
 
 1.[React Calculator Github Repository](https://github.com/rulamon/react-calculator)
+
+### day 87, 88: February 6,7, Wednesday and Thursday
+
+**Today's Progress**: Created basic Pomodoro Timer with full functionality in React
+
+1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
