@@ -509,3 +509,11 @@ PS: finished later, used one regex.
 **Today's Progress**: Created basic Pomodoro Timer with full functionality in React
 
 1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
+
+### day 89: February 8, Friday
+
+**Today's Progress**: Passing all tests for the pomodoro clock. 
+
+**Thoughts**: Should I put in the time to learn css animations to create a progress timer ring? 
+
+1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
