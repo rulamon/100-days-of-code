@@ -517,3 +517,12 @@ PS: finished later, used one regex.
 **Thoughts**: Should I put in the time to learn css animations to create a progress timer ring? 
 
 1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
+
+### day 90-94: last: february 14, Thursday
+
+**Today's Progress**: Finished Pomodoro Clock with ring timer (used svg) and claimed Front End Frameworks certificate for FCC
+
+**Thoughts**: Not a very productive couple of days, low energy and lots to do
+
+
+1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
