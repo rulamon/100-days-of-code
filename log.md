@@ -526,3 +526,9 @@ PS: finished later, used one regex.
 
 
 1.[React Pomodoro Timer Github Repository](https://github.com/rulamon/pomodoro-clock)
+
+### day 95: february 15, Friday
+
+**Today's Progress**: Did a Kata on codewars and learned about a new way to use .reduce()
+
+1.[Link to tweet](https://twitter.com/LamonRuben/status/1096507447102136321)
