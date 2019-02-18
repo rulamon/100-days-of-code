@@ -532,3 +532,10 @@ PS: finished later, used one regex.
 **Today's Progress**: Did a Kata on codewars and learned about a new way to use .reduce()
 
 1.[Link to tweet](https://twitter.com/LamonRuben/status/1096507447102136321)
+
+### day 96-97: february 17-18, Sunday, Monday
+
+**Today's Progress**: Did some Katas on codewars
+
+1.[Link to tweet](https://twitter.com/LamonRuben/status/1097586528723877893)
+
