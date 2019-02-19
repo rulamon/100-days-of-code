@@ -539,3 +539,9 @@ PS: finished later, used one regex.
 
 1.[Link to tweet](https://twitter.com/LamonRuben/status/1097586528723877893)
 
+### day 98: february 19, Tuesday
+
+**Today's Progress**: Checked solution for the Sum Of Pairs kata on codewars, which I couldn't find myself, and started checking out craft cms for Karlien's website
+
+1.[Link to tweet](https://twitter.com/LamonRuben/status/1097804797816827904)
+
