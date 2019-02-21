@@ -545,3 +545,7 @@ PS: finished later, used one regex.
 
 1.[Link to tweet](https://twitter.com/LamonRuben/status/1097804797816827904)
 
+### day 99-100: february 20,21, Wednesday, Thursday
+
+**Today's Progress**: installed craft cms, and started learning Angular
+
